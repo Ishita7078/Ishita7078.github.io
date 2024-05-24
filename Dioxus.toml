@@ -13,9 +13,6 @@ out_dir = "docs"
 # resource (assets) file folder
 asset_dir = "assets"
 
-[web.app]
-base_path = "Ishita7078.github.io"
-
 # HTML title tag content
 title = "webtestrust"
 
