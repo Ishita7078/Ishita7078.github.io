@@ -29,7 +29,10 @@ watch_path = ["src", "assets"]
 
 # CSS style file
 
-style = []
+style = [
+    "./assets/main.css"
+]
+
 
 # Javascript code file
 script = []
@@ -39,3 +42,6 @@ script = []
 # Javascript code file
 # serve: [dev-server] only
 script = []
+
+[web.app]
+title = "Ishita Mehta"
